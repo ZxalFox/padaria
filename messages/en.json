@@ -1,0 +1,32 @@
+{
+  "header": {
+    "title": "Sanfra Bakery",
+    "products": "Products",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Welcome to Sanfra Bakery!",
+    "welcome-text": "The best bakery in town, bringing fresh bread and irresistible sweets every day.",
+    "our-products": "Our Products",
+    "breads": "Artisanal Breads",
+    "breads-text": "Fresh bread made daily with the finest ingredients.",
+    "cakes": "Homemade Cakes",
+    "cakes-text": "Delicious cakes for all occasions, with a taste you'll love.",
+    "candys": "Delicious Sweets",
+    "candys-text": "Sweets made with love, perfect to sweeten your day.",
+    "visit-us": "Visit Us Today!",
+    "visit-us-text": "Come and try our fresh and delicious products. We are waiting for you!",
+    "know-more": "Learn More"
+  },
+  "products": {
+    "our-products": "Our Products",
+    "our-products-text": "Check out the variety of delicious products we offer.",
+    "browse-products": "Browse Our Products",
+    "breads": "Artisanal Breads",
+    "breads-text": "Freshly baked breads, made daily with the finest ingredients.",
+    "cakes": "Homemade Cakes",
+    "cakes-text": "Delicious cakes for every occasion, with flavors you'll love.",
+    "candys": "Delicious Sweets",
+    "candys-text": "Handcrafted sweets, perfect to brighten your day."
+  }
+}

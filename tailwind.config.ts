@@ -12,6 +12,13 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        poppins: ['"Poppins"', "sans-serif"],
+        poppinsBlack: ['"Poppins Black"', "sans-serif"],
+        poppinsBold: ['"Poppins Bold"', "sans-serif"],
+        poppinsLight: ['"Poppins Light"', "sans-serif"],
+        poppinsMedium: ['"Poppins Medium"', "sans-serif"],
+      },
     },
   },
   plugins: [],

@@ -1,0 +1,21 @@
+{
+  "header": {
+    "title": "Padaria Sanfra",
+    "products": "Products",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Bem-vindo à Padaria Sanfra!",
+    "welcome-text": "A melhor padaria da cidade, trazendo pães frescos e doces irresistíveis todos os dias.",
+    "our-products": "Nossos produtos",
+    "breads": "Pães Artesanais",
+    "breads-text": "Pães fresquinhos feitos diariamente com os melhores ingredientes.",
+    "cakes": "Bolos Caseiros",
+    "cakes-text": "Bolos deliciosos para todas as ocasiões, com um sabor que você vai adorar.",
+    "candys": "Doces Deliciosos",
+    "candys-text": "Doces feitos com carinho, perfeitos para adoçar seu dia.",
+    "visit-us": "Visite-nos hoje mesmo!",
+    "visit-us-text": "Venha experimentar nossos produtos frescos e deliciosos. Estamos esperando por você!",
+    "know-more": "Saiba Mais"
+  }
+}
