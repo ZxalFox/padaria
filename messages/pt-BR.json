@@ -1,8 +1,8 @@
 {
   "header": {
     "title": "Padaria Sanfra",
-    "products": "Products",
-    "contact": "Contact"
+    "products": "Produtos",
+    "contact": "Contato"
   },
   "home": {
     "welcome": "Bem-vindo à Padaria Sanfra!",
@@ -17,5 +17,29 @@
     "visit-us": "Visite-nos hoje mesmo!",
     "visit-us-text": "Venha experimentar nossos produtos frescos e deliciosos. Estamos esperando por você!",
     "know-more": "Saiba Mais"
+  },
+  "products": {
+    "our-products": "Nossos Produtos",
+    "our-products-text": "Confira a variedade de deliciosos produtos que oferecemos.",
+    "browse-products": "Explore Nossos Produtos",
+    "breads": "Pães Artesanais",
+    "breads-text": "Pães frescos, assados diariamente com os melhores ingredientes.",
+    "cakes": "Bolos Caseiros",
+    "cakes-text": "Deliciosos bolos para todas as ocasiões, com sabores que você vai adorar.",
+    "candys": "Doces Deliciosos",
+    "candys-text": "Doces artesanais, perfeitos para alegrar o seu dia."
+  },
+  "contact": {
+    "get-in-touch": "Entre em Contato",
+    "contact-us-text": "Estamos aqui para ajudá-lo. Entre em contato conosco por qualquer um dos meios abaixo.",
+    "reach-us": "Fale Conosco",
+    "address": "Endereço",
+    "address-details": "Rua Exemplo, 123, Cidade, País",
+    "phone": "Telefone",
+    "phone-details": "+55 11 98765-4321",
+    "email": "E-mail",
+    "email-details": "contato@exemplo.com",
+    "hours": "Horário de Funcionamento",
+    "hours-details": "Segunda a Sexta, 9:00 - 18:00"
   }
 }

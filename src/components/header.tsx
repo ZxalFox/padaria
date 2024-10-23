@@ -24,9 +24,12 @@ export default function Header() {
               </Link>
             </li>
             <li>
-              <a href="#" className="hover:text-white text-gray-800 text-xl">
+              <Link
+                href="/contact"
+                className="hover:text-white text-gray-800 text-xl"
+              >
                 {t("header.contact")}
-              </a>
+              </Link>
             </li>
           </ul>
         </nav>

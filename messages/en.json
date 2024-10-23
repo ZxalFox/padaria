@@ -28,5 +28,18 @@
     "cakes-text": "Delicious cakes for every occasion, with flavors you'll love.",
     "candys": "Delicious Sweets",
     "candys-text": "Handcrafted sweets, perfect to brighten your day."
+  },
+  "contact": {
+    "get-in-touch": "Get in Touch",
+    "contact-us-text": "We are here to help you. Feel free to reach out to us using any of the options below.",
+    "reach-us": "Contact Us",
+    "address": "Address",
+    "address-details": "123 Example Street, City, Country",
+    "phone": "Phone",
+    "phone-details": "+1 234 567 890",
+    "email": "Email",
+    "email-details": "contact@example.com",
+    "hours": "Business Hours",
+    "hours-details": "Monday to Friday, 9:00 AM - 6:00 PM"
   }
 }
